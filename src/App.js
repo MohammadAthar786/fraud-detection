@@ -39,7 +39,7 @@ const App = () => {
       <section className="contact">
         <h3>Contact Me</h3>
         <a href="mailto:mohdatharjamal@gmail.com">Email: mohdatharjamal@gmail.com</a>
-        <a href="https://www.linkedin.com/in/mohammed-athar-8687b324a/" target="_blank">LinkedIn Profile</a>
+        <a href="https://www.linkedin.com/in/mohammed-athar-8687b324a/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
         <p>Phone: 9634797852</p>
       </section>
       <footer className="footer">
